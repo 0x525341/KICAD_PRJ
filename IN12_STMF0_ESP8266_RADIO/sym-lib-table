@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name CustomComponents)(type Legacy)(uri ${KIPRJMOD}/CustomComponents.lib)(options "")(descr ""))
+  (lib (name vs10xx)(type Legacy)(uri ${KIPRJMOD}/vs10xx.lib)(options "")(descr ""))
+  (lib (name 23lcv1024)(type Legacy)(uri ${KIPRJMOD}/23lcv1024.lib)(options "")(descr ""))
+)
