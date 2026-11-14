@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ST1S10PHR")(type "Legacy")(uri "/Users/oleg/work/smart-wipers/board/st1s10phr-Lib/ST1S10PHR.lib")(options "")(descr ""))
+  (lib (name "SparkFun-FreqCtrl")(type "Legacy")(uri "/Users/oleg/work/smart-wipers/board/SparkFun-Kicad-Libraries/SparkFun-FreqCtrl.lib")(options "")(descr ""))
+  (lib (name "Shield")(type "Legacy")(uri "F:/Project/KICAD/library/my_library/Shield.lib")(options "")(descr ""))
+  (lib (name "CAN_AVR-board-rescue")(type "KiCad")(uri "${KIPRJMOD}/CAN_AVR-board-rescue.kicad_sym")(options "")(descr ""))
+)
