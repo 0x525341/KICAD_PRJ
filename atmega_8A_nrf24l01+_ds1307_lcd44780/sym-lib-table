@@ -1,2 +1,4 @@
 (sym_lib_table
+	(version 7)
+	(lib (name "atmega_8A_nrf24l01+_ds1307_lcd44780-rescue") (type "Legacy") (uri "${KIPRJMOD}/atmega_8A_nrf24l01+_ds1307_lcd44780-rescue.lib") (options "") (descr ""))
 )
