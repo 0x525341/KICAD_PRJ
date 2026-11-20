@@ -39,9 +39,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.7,
-          "height": 1.4,
-          "width": 1.4
+          "drill": 0.0,
+          "height": 1.5,
+          "width": 1.5
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -190,7 +190,7 @@
         {
           "td_allow_use_two_tracks": true,
           "td_curve_segcount": 1,
-          "td_height_ratio": 1.0,
+          "td_height_ratio": 0.6,
           "td_length_ratio": 0.5,
           "td_maxheight": 2.0,
           "td_maxlen": 1.0,
@@ -207,7 +207,7 @@
           "td_maxlen": 1.0,
           "td_on_pad_in_zone": false,
           "td_target_name": "td_track_end",
-          "td_width_to_size_filter_ratio": 0.9
+          "td_width_to_size_filter_ratio": 1.0
         }
       ],
       "track_widths": [
@@ -685,13 +685,13 @@
         "uuid": "d62a949b-1e08-428d-af0a-73de4afe5d0c"
       }
     ],
-    "used_designators": "",
+    "used_designators": "J1-5,U1-3,F1,C1-16,Y1,#PWR1-88,TP1-4,JP1-22,R1-60",
     "variants": []
   },
   "sheets": [
     [
       "d62a949b-1e08-428d-af0a-73de4afe5d0c",
-      "CAN_STM"
+      "STM32F373_BOARD"
     ]
   ],
   "text_variables": {},
